@@ -1,3 +1,3 @@
 var a = "testing is the future";
 console.log("********************");
-console.log("This is master sample2 again with: " + a);
+console.log("I am sure that the " + a);
